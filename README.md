@@ -1,1 +1,3 @@
-# Project03_todo_list
+# Project03 Todo App List
+
+Develop a simple command line Todo app using TypeScipt, Node.js and Inquirer.
